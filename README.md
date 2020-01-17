@@ -1,4 +1,4 @@
-#Location suggestions for opening an Egyptian restaurant in Toronto
+# Location suggestions for opening an Egyptian restaurant in Toronto
 
 
 <h1 align="center">Toronto Restaurants Clustering Visualization</h1>
