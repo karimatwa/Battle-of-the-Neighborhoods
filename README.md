@@ -3,6 +3,6 @@
 
 <h1 align="center">Toronto Restaurants Clustering Visualization</h1>
 
-<div align="centre">
+<p align="center">
     <img src="Picture1.jpg"</img> 
-</div>
+</p>
