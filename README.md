@@ -1,4 +1,4 @@
-# Battle of the Neighbourhoods
+# Battle of the Neighborhoods
 
 
 Powerpoint presentation [file](https://github.com/karimatwa/Coursera_Capstone/blob/master/Battle%20of%20The%20Neighborhoods.pptx?raw=true).
