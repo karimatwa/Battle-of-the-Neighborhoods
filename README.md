@@ -1,4 +1,4 @@
-# Location suggestions for opening an Egyptian restaurant in Toronto
+# Battle of the Neighbourhoods
 
 
 Powerpoint presentation [file](https://github.com/karimatwa/Coursera_Capstone/blob/master/Battle%20of%20The%20Neighborhoods.pptx?raw=true).
