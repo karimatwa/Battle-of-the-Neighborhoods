@@ -4,5 +4,5 @@
 <h1 align="center">Toronto Restaurants Clustering Visualization</h1>
 
 <div align="centre">
-    <img src="Picture1.jpg" width="200"</img> 
+    <img src="Picture1.jpg"</img> 
 </div>
